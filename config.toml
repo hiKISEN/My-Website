@@ -1,9 +1,9 @@
 # Site settings
-baseURL = "/"
+baseURL = "https://kisenwang.netlify.app/"
 languageCode = "en-us"
 title = "Portfolio website for Kisen Wang"
 theme = "forty"
-relativeurls = true
+#relativeurls = true
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -20,7 +20,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Kisen Wang"
+  name = "Kisen Wang111"
   description = "Ayo, this is Kisen from MFA2021 in Londodn Business School"
 
   # Link custom assets relative to /static
@@ -83,7 +83,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Kisen Wang"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+    subtitle = "Ayo, this is Kisen from MFA2021 in Londodn Business School."
     buttonText = "Get Started"
 
 
