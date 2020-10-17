@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://kisenwang.netlify.app/"
 languageCode = "en-us"
-title = "Portfolio website for Kisen Wang"
+title = "Portfolio Website for Kisen Wang"
 theme = "forty"
 #relativeurls = true
 
@@ -20,7 +20,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Kisen Wang"
+  name = "Kisen Wang1"
   description = "Ayo, this is Kisen from MFA2021 in Londodn Business School"
 
   # Link custom assets relative to /static
@@ -39,7 +39,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Kisen Wang"
-    subtitle = "MFA2021"
+    subtitle = "MFA2021@LBS"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -181,9 +181,9 @@ disqusShortname = ""
 
     [[params.contact.address]]
     title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    street = "London Business School"
+    city = "Regent's Park, London, NW1 4SA"
+    country = "United Kingdom"
 
   # Footer section
   [params.footer]
@@ -208,12 +208,12 @@ disqusShortname = ""
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
+      url= "https://github.com/hiKISEN"
       label = "GitHub"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "https://www.linkedin.com/in/kisen-wang-690782191/"
       label = "LinkedIn"
 
     [[params.footer.quicklinks]]
