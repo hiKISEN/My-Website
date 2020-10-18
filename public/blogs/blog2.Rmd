@@ -1,0 +1,14 @@
+---
+categories:
+- ""
+- ""
+date: "2020-10-14"
+description:  ''
+draft: false
+image: greece01.jpeg
+keywords: ""
+slug: blog2
+title: My travel journey of Greece
+---
+
+I spent my summer of 2018 in Greece. I love Athens, Santorini, and Thira. Hope one day I can go there another time!

@@ -99,10 +99,10 @@ disqusShortname = ""
       url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
+      title = "Yield Curve inversion"
+      subtitle = "US yield curves since 1999"
+      image = "recession.jpg"
+      url = "Projects/pj2"
 
     [[params.tiles.showcase]]
       title = "Magna"
@@ -114,7 +114,7 @@ disqusShortname = ""
       title = "Ipsum"
       subtitle = "Nisl Sed Aliquam"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "Projects/pj1"
 
     [[params.tiles.showcase]]
       title = "Consequat"
