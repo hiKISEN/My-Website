@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Portfolio Website for Kisen Wang</title>
+    <title>Lifestyle on Portfolio Website for Kisen Wang</title>
     <link>/projects/</link>
-    <description>Recent content in Projects on Portfolio Website for Kisen Wang</description>
+    <description>Recent content in Lifestyle on Portfolio Website for Kisen Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Climate Change and Temperature Anomalie</title>
       <link>/projects/pj5/</link>
@@ -45,16 +45,6 @@ In addition, many articles and commentators think that, e.g., Yield curve invers
       <guid>/projects/pj4/</guid>
       <description>Fivethirtyeight.com has detailed data on all polls that track the president’s approval
 # Import approval polls dataapproval_polllist &amp;lt;- read_csv(here::here(&amp;#39;data&amp;#39;, &amp;#39;approval_polllist.csv&amp;#39;))# or directly off fivethirtyeight website# approval_polllist &amp;lt;- read_csv(&amp;#39;https://projects.fivethirtyeight.com/trump-approval-data/approval_polllist.csv&amp;#39;) glimpse(approval_polllist)## Rows: 15,619## Columns: 22## $ president &amp;lt;chr&amp;gt; &amp;quot;Donald Trump&amp;quot;, &amp;quot;Donald Trump&amp;quot;, &amp;quot;Donald Trump&amp;quot;,...## $ subgroup &amp;lt;chr&amp;gt; &amp;quot;All polls&amp;quot;, &amp;quot;All polls&amp;quot;, &amp;quot;All polls&amp;quot;, &amp;quot;All pol...## $ modeldate &amp;lt;chr&amp;gt; &amp;quot;9/27/2020&amp;quot;, &amp;quot;9/27/2020&amp;quot;, &amp;quot;9/27/2020&amp;quot;, &amp;quot;9/27/20...## $ startdate &amp;lt;chr&amp;gt; &amp;quot;1/20/2017&amp;quot;, &amp;quot;1/20/2017&amp;quot;, &amp;quot;1/20/2017&amp;quot;, &amp;quot;1/21/20.</description>
-    </item>
-    
-    <item>
-      <title>Where Do People Drink The Most Beer, Wine And Spirits?</title>
-      <link>/projects/pj1/</link>
-      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/pj1/</guid>
-      <description>Back in 2014, fivethiryeight.com published an article on alcohol consumption in different countries. The data drinks is available as part of the fivethirtyeight package.
-library(fivethirtyeight)data(drinks)</description>
     </item>
     
   </channel>

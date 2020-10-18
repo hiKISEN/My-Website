@@ -124,34 +124,6 @@ In addition, many articles and commentators think that, e.g., Yield curve invers
     </item>
     
     <item>
-      <title>Where Do People Drink The Most Beer, Wine And Spirits?</title>
-      <link>/projects/pj1/</link>
-      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/pj1/</guid>
-      <description>Back in 2014, fivethiryeight.com published an article on alcohol consumption in different countries. The data drinks is available as part of the fivethirtyeight package.
-library(fivethirtyeight)data(drinks)</description>
-    </item>
-    
-    <item>
-      <title>Aliquam</title>
-      <link>/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/blogs/aliquam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tempus</title>
-      <link>/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
