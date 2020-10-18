@@ -6,14 +6,92 @@
     <description>Recent content on Portfolio Website for Kisen Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Magna</title>
-      <link>/blogs/magna/</link>
-      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <title>A Song Written By Myself</title>
+      <link>/blogs/blog2/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blogs/magna/</guid>
-      <description>hhhh ccc </description>
+      <guid>/blogs/blog2/</guid>
+      <description>白头少年 ——Kisen Wang
+谁是断肠人，
+谁又在天涯？
+孤独小桥斑驳的人家。
+我是断肠人，
+我也在天涯。
+萧瑟西风推着那瘦马。
+又一曲牵挂。
+我在北方楼台把愁浇一浇，
+江南春已闹。
+放肆的雪又在漫天飘，
+满眼是风霜。
+少年热血现在哪里找，
+心要比天高。
+无由的累伴着那疲劳，
+难道就这样？
+尚早！
+谁是梦中人，
+谁又弃纷扰？
+勇敢的心他又知多少。
+我是梦中人，
+我欲贪行早。
+无尽的暗也要走一遭，
+惊一树寒鸦。
+我在北方楼台把愁浇一浇，
+江南春已闹。
+愁肠下肚醉意心中烧。
+再冷又何妨？
+白头少年带一身桀骜，
+心依然逍遥。
+碾碎了累踏碎了疲劳，
+星月剪作袍。
+再闯！
+谁是梦中人，
+谁又弃纷扰？
+勇敢的心他又知多少。
+我是梦中人，
+我欲贪行早。
+无尽的暗也要走一遭，
+惊一树寒鸦。
+我在北方楼台把愁浇一浇，
+江南春已闹。
+愁肠下肚醉意心中烧。
+再冷又何妨？
+白头少年带一身桀骜，
+心依然逍遥。
+碾碎了累踏碎了疲劳，
+星月剪作袍。
+再闯！
+我在北方楼台把愁浇一浇，
+江南春已闹。
+愁肠下肚醉意心中烧。
+再冷又何妨？
+白头少年带一身桀骜，
+心依然逍遥。
+碾碎了累踏碎了疲劳，
+星月剪作袍。
+再闯！</description>
+    </item>
+    
+    <item>
+      <title>Biography of Kisen Wang</title>
+      <link>/blogs/blog1/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/blog1/</guid>
+      <description>Hi, my name is Qisen Wang, a boy from MFA2021, and you can call me Kisen, too. In this biography, I&amp;rsquo;d like to introduce my hometown, my undergraduate study, and my hobbies.
+ Hometown  I was born in a small town in Chongqing, China. There is one key words to describe my hometown Chongqing – hot. “Hot” comes from its hot weather and spicy hotpot. In summer, it often reaches over 40 °C.</description>
+    </item>
+    
+    <item>
+      <title>Climate Change and Temperature Anomalie</title>
+      <link>/projects/pj5/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/pj5/</guid>
+      <description>If we wanted to study climate change, we can find data on the Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies in the Northern Hemisphere at NASA’s Goddard Institute for Space Studies. The tabular data of temperature anomalies can be found here
+To define temperature anomalies we need to have a reference, or base, period which NASA clearly states that it is the period between 1951-1980.
+Run the code below to load the file:</description>
     </item>
     
     <item>
@@ -24,6 +102,25 @@
       <guid>/projects/pj2/</guid>
       <description>Every so often, we hear warnings from commentators on the “inverted yield curve” and its predictive power with respect to recessions. An explainer what a inverted yield curve is can be found here. If you’d rather listen to something, here is a great podcast from NPR on yield curve indicators
 In addition, many articles and commentators think that, e.g., Yield curve inversion is viewed as a harbinger of recession. One can always doubt whether inversions are truly a harbinger of recessions, and use the attached parable on yield curve inversions.</description>
+    </item>
+    
+    <item>
+      <title>Omega Group plc- Pay Discrimination</title>
+      <link>/projects/pj3/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/pj3/</guid>
+      <description>At the last board meeting of Omega Group Plc., the headquarters of a large multinational company, the issue was raised that women were being discriminated in the company, in the sense that the salaries were not the same for male and female executives. A quick analysis of a sample of 50 employees (of which 24 men and 26 women) revealed that the average salary for men was about 8,700 higher than for women.</description>
+    </item>
+    
+    <item>
+      <title>Trump’s Approval Margins</title>
+      <link>/projects/pj4/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/pj4/</guid>
+      <description>Fivethirtyeight.com has detailed data on all polls that track the president’s approval
+# Import approval polls dataapproval_polllist &amp;lt;- read_csv(here::here(&amp;#39;data&amp;#39;, &amp;#39;approval_polllist.csv&amp;#39;))# or directly off fivethirtyeight website# approval_polllist &amp;lt;- read_csv(&amp;#39;https://projects.fivethirtyeight.com/trump-approval-data/approval_polllist.csv&amp;#39;) glimpse(approval_polllist)## Rows: 15,619## Columns: 22## $ president &amp;lt;chr&amp;gt; &amp;quot;Donald Trump&amp;quot;, &amp;quot;Donald Trump&amp;quot;, &amp;quot;Donald Trump&amp;quot;,...## $ subgroup &amp;lt;chr&amp;gt; &amp;quot;All polls&amp;quot;, &amp;quot;All polls&amp;quot;, &amp;quot;All polls&amp;quot;, &amp;quot;All pol...## $ modeldate &amp;lt;chr&amp;gt; &amp;quot;9/27/2020&amp;quot;, &amp;quot;9/27/2020&amp;quot;, &amp;quot;9/27/2020&amp;quot;, &amp;quot;9/27/20...## $ startdate &amp;lt;chr&amp;gt; &amp;quot;1/20/2017&amp;quot;, &amp;quot;1/20/2017&amp;quot;, &amp;quot;1/20/2017&amp;quot;, &amp;quot;1/21/20.</description>
     </item>
     
     <item>
@@ -52,15 +149,6 @@ library(fivethirtyeight)data(drinks)</description>
       
       <guid>/blogs/tempus/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>/blogs/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
     <item>
