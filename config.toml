@@ -139,10 +139,10 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "My Projects"
-    subtitle = """Here is a list of my projects."""
+    title = "My CV"
+    subtitle = """Here is a pdf version of my CV."""
     buttonText = "Go"
-    url = "Projects"
+    url = "Projects/KisenWang_Fudan University & London Business School.pdf"
 
 
   # Contact section
